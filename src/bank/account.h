@@ -8,6 +8,9 @@
 #ifndef BANK_ACCOUNT_H_
 #define BANK_ACCOUNT_H_
 
-
+struct {
+	int balance;
+	float rate;
+};
 
 #endif /* BANK_ACCOUNT_H_ */
